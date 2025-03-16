@@ -1,0 +1,22 @@
+.banner-header {
+    text-wrap: balance;
+    max-inline-size: 25ch;
+    font-size: clamp(2rem, 5vw, 5rem);
+    color: white;
+    text-shadow: 0 1px 1px #000;
+    align-self: flex-end;
+    padding: 10px;
+  }
+
+  .banner {
+    background:
+      linear-gradient(#000d 0 0),
+      url("https://assets.codepen.io/2585/sean-pollock-PhYq704ffdA-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    gap: 2ch;
+    place-content: flex-start;
+    text-align: flex-start;
+    display: flex;
+  }
