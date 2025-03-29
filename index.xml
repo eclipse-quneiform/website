@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quneiform - Home on The Community for Open Innovation and Collaboration</title>
+    <title>Eclipse Quneiform - Home on i18n &amp; l10n Analysis Software</title>
     <link>http://localhost:1313/quneiform/</link>
-    <description>Recent content in Quneiform - Home on The Community for Open Innovation and Collaboration</description>
+    <description>Recent content in Eclipse Quneiform - Home on i18n &amp; l10n Analysis Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
@@ -29,7 +29,7 @@ Issues To report an issue or request a feature, please visit our Issue Tracker.<
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
       <guid>http://localhost:1313/quneiform/developers/</guid>
-      <description>Developers Features for Developers Quneiform provides numerous tools for analyzing your project at every stage of internationalization. At the initial stage, Quneiform will analyze your source code to uncover various problems. This can include issues such as function misuse, strings not exposed for translation, etc.
+      <description>Developers Features for Developers Eclipse Quneiform® provides numerous tools for analyzing your project at every stage of internationalization. At the initial stage, Quneiform will analyze your source code to uncover various problems. This can include issues such as function misuse, strings not exposed for translation, etc.
 At the next stage of i18n, resource catalogs can be analyzed to find issues with the translatable content. Issues here can include confusing messages, concatenated string, and strings that probably shouldn’t be in the resources.</description>
     </item>
     
@@ -57,7 +57,7 @@ RAM : 2 GB at minimum required. 4 GB recommended.</description>
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
       <guid>http://localhost:1313/quneiform/translators/</guid>
-      <description>Translators Features for Translators &amp;amp; Language Service Providers Quneiform provides tools for reviewing your translations at the final stage of project sign-off. This includes inconsistency checks between the source and target strings, ensuring accurate and stable translations.
+      <description>Translators Features for Translators &amp;amp; Language Service Providers Eclipse Quneiform® provides tools for reviewing your translations at the final stage of project sign-off. This includes inconsistency checks between the source and target strings, ensuring accurate and stable translations.
 Resource review Detect translation inconsistencies, such as mismatching printf commands, keyboard accelerators, and numbers.</description>
     </item>
     
