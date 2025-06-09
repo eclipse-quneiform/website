@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eclipse Quneiform - Home on i18n &amp; l10n Analysis Software</title>
-    <link>http://localhost:1313/quneiform/</link>
+    <link>https://eclipse.dev/quneiform/</link>
     <description>Recent content in Eclipse Quneiform - Home on i18n &amp; l10n Analysis Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/quneiform/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://eclipse.dev/quneiform/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/quneiform/contact/</link>
+      <link>https://eclipse.dev/quneiform/contact/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
-      <guid>http://localhost:1313/quneiform/contact/</guid>
+      <guid>https://eclipse.dev/quneiform/contact/</guid>
       <description>Contact Coming soon&amp;hellip;
 Issues To report an issue or request a feature, please visit our Issue Tracker.</description>
     </item>
     
     <item>
       <title>Developers</title>
-      <link>http://localhost:1313/quneiform/developers/</link>
+      <link>https://eclipse.dev/quneiform/developers/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
-      <guid>http://localhost:1313/quneiform/developers/</guid>
+      <guid>https://eclipse.dev/quneiform/developers/</guid>
       <description>Developers Features for Developers Eclipse Quneiform® provides numerous tools for analyzing your project at every stage of internationalization. At the initial stage, Quneiform will analyze your source code to uncover various problems. This can include issues such as function misuse, strings not exposed for translation, etc.
 At the next stage of i18n, resource catalogs can be analyzed to find issues with the translatable content. Issues here can include confusing messages, concatenated string, and strings that probably shouldn’t be in the resources.</description>
     </item>
     
     <item>
       <title>Download</title>
-      <link>http://localhost:1313/quneiform/download/</link>
+      <link>https://eclipse.dev/quneiform/download/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
-      <guid>http://localhost:1313/quneiform/download/</guid>
+      <guid>https://eclipse.dev/quneiform/download/</guid>
       <description>Download Windows Coming soon&amp;hellip;
 macOS Coming soon&amp;hellip;
 Linux Coming soon&amp;hellip;
 Source Code Quneiform is a free and open source application. You are free to study, modify, and distribute it under Eclipse Public License.
-Github System Requirements Operating System : Windows 10 or higher / macOS 10.15 / Linux
+GitHub System Requirements Operating System : Windows 10 or higher / macOS 10.15 / Linux
 RAM : 2 GB at minimum required. 4 GB recommended.</description>
     </item>
     
     <item>
       <title>Translators</title>
-      <link>http://localhost:1313/quneiform/translators/</link>
+      <link>https://eclipse.dev/quneiform/translators/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
-      <guid>http://localhost:1313/quneiform/translators/</guid>
+      <guid>https://eclipse.dev/quneiform/translators/</guid>
       <description>Translators Features for Translators &amp;amp; Language Service Providers Eclipse Quneiform® provides tools for reviewing your translations at the final stage of project sign-off. This includes inconsistency checks between the source and target strings, ensuring accurate and stable translations.
 Resource review Detect translation inconsistencies, such as mismatching printf commands, keyboard accelerators, and numbers.</description>
     </item>
