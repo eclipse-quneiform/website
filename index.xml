@@ -17,8 +17,7 @@
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
       <guid>https://eclipse.dev/quneiform/contact/</guid>
-      <description>Contact Coming soon&amp;hellip;
-Issues To report an issue or request a feature, please visit our Issue Tracker.</description>
+      <description>Issues To report an issue or request a feature, please visit our Issue Tracker.</description>
     </item>
     
     <item>
@@ -41,10 +40,7 @@ At the next stage of i18n, resource catalogs can be analyzed to find issues with
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
       <guid>https://eclipse.dev/quneiform/download/</guid>
-      <description>Download Windows Coming soon&amp;hellip;
-macOS Coming soon&amp;hellip;
-Linux Coming soon&amp;hellip;
-Source Code Quneiform is a free and open source application. You are free to study, modify, and distribute it under Eclipse Public License.
+      <description>Source Code Quneiform is a free and open source application. You are free to study, modify, and distribute it under Eclipse Public License.
 GitHub System Requirements Operating System : Windows 10 or higher / macOS 10.15 / Linux
 RAM : 2 GB at minimum required. 4 GB recommended.</description>
     </item>
